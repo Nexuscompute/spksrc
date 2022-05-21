@@ -47,7 +47,7 @@ pyopenssl==21.0.0
 pyaes==1.6.1
 pygithub==1.55
 pyjsparser==2.7.1
-PyJWT==2.3.0
+PyJWT==2.4.0
 pymediainfo==5.1.0
 PyNMA==1.0
 pyparsing==2.4.7
