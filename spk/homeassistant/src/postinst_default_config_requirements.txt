@@ -36,7 +36,7 @@ hass-nabucasa==0.46.0
 home-assistant-frontend==20210830.0
 homeassistant==2021.9.7
 httpcore==0.13.6
-httpx==0.19.0
+httpx==0.23.0
 #idna==2.9                   ==> pure
 ifaddr==0.1.7
 #Jinja2==3.0.1               ==> pure
