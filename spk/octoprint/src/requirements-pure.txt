@@ -1,6 +1,6 @@
 # all requirements are taken from the list "INSTALL_REQUIRES" in the 
 # original setup.py at: https://github.com/OctoPrint/OctoPrint/blob/master/setup.py
-OctoPrint==1.7.3
+OctoPrint==1.8.2
 #git+https://github.com/OctoPrint/OctoPrint.git@1.8.0rc5#egg=octoprint==1.8.0
 OctoPrint-FileCheck==2021.2.23
 OctoPrint-FirmwareCheck==2021.10.11
