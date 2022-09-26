@@ -32,7 +32,7 @@ Js2Py==0.71
 jsonrpclib-pelix==0.4.3.1
 kodipydent-alt==2021.7.16
 Mako==1.1.5
-markdown2==2.4.1
+markdown2==2.4.4
 new-rtorrent-python==1.0.1a0
 oauthlib==3.1.1
 packaging==20.9
