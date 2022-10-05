@@ -24,7 +24,7 @@ attrs==21.2.0
 idna==3.3
 jinja2==3.0.3
 # numpy==1.21.4                   # requires to be built as cross/numpy
-PyJWT==1.7.1
+PyJWT==2.4.0
 # PyNaCl                          ==> crossenv  # for mobile_app
 ## pip>=8.0.3,<20.3
 # python-slugify==4.0.1
