@@ -159,3 +159,4 @@ zigpy-zigate==0.7.3
 zigpy-znp==0.5.4
 zigpy==0.37.1
 zope.event==4.5.0
+websockets>=10.0 # not directly required, pinned by Snyk to avoid a vulnerability
