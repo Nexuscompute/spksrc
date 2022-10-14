@@ -107,7 +107,7 @@ pi1wire==0.1.0
 pkce==1.0.3
 platformdirs==2.4.0
 plumbum==1.7.0
-protobuf==3.17.3
+protobuf==3.18.3
 ptyprocess==0.7.0
 pubnub==5.1.4
 py-canary==0.5.1
@@ -159,3 +159,4 @@ zigpy-zigate==0.7.3
 zigpy-znp==0.5.4
 zigpy==0.37.1
 zope.event==4.5.0
+websockets>=10.0 # not directly required, pinned by Snyk to avoid a vulnerability
