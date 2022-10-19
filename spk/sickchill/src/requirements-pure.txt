@@ -37,7 +37,7 @@ new-rtorrent-python==1.0.1a0
 oauthlib==3.1.1
 packaging==20.9
 pbr==5.7.0
-poetry==1.2.0a2
+poetry==1.2.0b1
 poetry-core==1.1.0a6
 poetry-date-version-plugin==2021.7.16-6
 profilehooks==1.12.0
