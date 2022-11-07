@@ -121,7 +121,7 @@ setuptools-scm==6.3.2
 six==1.16.0
 stevedore==3.5.0
 stone==3.2.1
-tlslite-ng==0.7.6
+tlslite-ng==0.8.0-alpha3
 tomli==2.0.0
 tqdm==4.62.3
 uritemplate==4.1.1
