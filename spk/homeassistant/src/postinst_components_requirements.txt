@@ -91,7 +91,7 @@ jsonrpc-websocket==3.1.0
 keyring==23.0.1
 korean-lunar-calendar==0.2.1
 lark==0.11.3
-loguru==0.5.3
+loguru==0.6.0
 lomond==0.3.3
 marshmallow==3.13.0
 marshmallow-dataclass==8.5.3
